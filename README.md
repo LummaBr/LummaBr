@@ -6,5 +6,3 @@
 - 📫 Email para contato: contato.luanmorais@gmail.com
 - ⚡ Fun fact: Apesar de Estudar desde 2013, já desisti da carreira e voltei em torno de 5 ou 6 vezes.
 
-![Lumma GitHub stats](https://github-readme-stats.vercel.app/api?username=LummaBr&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LummaBr&theme=dark)
